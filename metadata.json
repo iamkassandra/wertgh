@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Zero Trust Cloud Fortress",
+  "description": "Enterprise-grade zero-trust cloud data hub and AI asset management suite for single AI-driven founders with Google Cloud bucket storage, E2EE, rapid bulk & URL upload, device profiles, and automated security audit tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
